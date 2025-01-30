@@ -1,0 +1,10 @@
+tkinter
+requests
+whois
+python-whois
+tldextract
+bs4
+Levenshtein
+logging
+ssl
+socket
